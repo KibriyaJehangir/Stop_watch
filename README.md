@@ -1,7 +1,7 @@
 # ⏱️ Simple Stopwatch Web App
 
-#### Video Demo: (https://www.youtube.com/watch?v=jB71eWILRyw](https://youtu.be/dwtKCrGw3Uo)
-#### Live Demo: (https://kibriyajehangir.github.io/Type_50/](https://kibriyajehangir.github.io/Stop_watch/)
+#### Video Demo: (https://www.youtube.com/watch?v=dwtKCrGw3Uo)
+#### Live Demo: (https://kibriyajehangir.github.io/Stop_watch/)
 
 ---
 
